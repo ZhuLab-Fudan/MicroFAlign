@@ -1,0 +1,4 @@
+torch==2.7.1
+transformers==4.48.1
+biopython>=1.81
+safetensors>=0.4
